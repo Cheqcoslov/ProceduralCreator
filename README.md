@@ -1,4 +1,4 @@
 # ProceduralCreator
-Create a procedural Terrain and Mesh creator.
+A procedural Terrain and Mesh creator.
 ![](Mesh.PNG)
 ![](Terrain.PNG)
